@@ -1,0 +1,7 @@
+test*
+*.drawio
+pytorch*
+TensorFlow*
+
+/.ipynb_*
+/datasets/DraughtFan/
